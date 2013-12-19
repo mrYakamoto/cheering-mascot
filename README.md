@@ -1,8 +1,8 @@
-# Deaf Grandma 
- 
-##Learning Competencies 
+# Deaf Grandma
 
-##Summary 
+##Learning Competencies
+
+##Summary
 
  We're going to model something a little silly: an interaction between you and your imaginary deaf grandma.  She exhibits the following inexplicable behavior:
 
@@ -13,32 +13,13 @@
 
 How should these behaviors map to code?
 
-<table class="table table-striped table-bordered">
-  <tr>
-    <th>"Real" world</th>
-    <th>Code world</th>
-  </tr>
-  <tr>
-    <td>Starting a conversation with Grandma</td>
-    <td>Running the program via the command line</td>
-  </tr>
-  <tr>
-    <td>Speaking to your Grandma</td>
-    <td>Reading a line of user input with the <a href="http://www.ruby-doc.org/docs/Tutorial/part_02/user_input.html">gets method</a>.</td>
-  </tr>
-  <tr>
-    <td>Grandma speaking to you</td>
-    <td>Printing a line to the console using the <a href="http://www.ruby-doc.org/core-1.9.3/IO.html#method-i-puts">puts method</a>.</td>
-  </tr>
-  <tr>
-    <td>Shouting</td>
-    <td>Either entering or printing text IN ALL CAPS, depending on who is speaking.</td>
-  </tr>
-  <tr>
-    <td>Leaving the conversation</td>
-    <td>Exiting the program</td>
-  </tr>
-</table>
+| "Real" world                          | Code world    |
+| -------------                         | ------------- |
+| Starting a conversation with Grandma  | Running the program via the command line |
+| Speaking to your Grandma              | Reading a line of user input with the [gets method](http://www.ruby-doc.org/docs/Tutorial/part_02/user_input.html). |
+| Grandma speaking to you               | Printing a line to the console using the [puts method](http://www.ruby-doc.org/core-1.9.3/IO.html#method-i-puts). |
+| Shouting                              | Either entering or printing text IN ALL CAPS, depending on who is speaking. |
+| Leaving the conversation              | Exiting the program |
 
 ## Learning Goals
 
@@ -48,21 +29,13 @@ How should these behaviors map to code?
 
 ## As you are coding, ask yourself....
 
-* Are you writing a single, gigantic method or breaking down your program into logical units?
-
-<!--
-2. Conditionals, [the case statement](http://www.skorks.com/2009/08/how-a-ruby-case-statement-works-and-what-you-can-do-with-it/), and [the loop method](http://ruby-doc.org/core-1.9.3/Kernel.html#method-i-loop).
--->
+* Are you writing a single, gigantic method. If so, could you break your program down into logical units?
 
 ## Objectives
 
 ### Deaf Grandma Doesn't Gets It
 
 Write a method called `deaf_grandma` that models the Grandma-talkin' rules above.  Use [gets](http://www.ruby-doc.org/docs/Tutorial/part_02/user_input.html) to prompt the user for input.
-
-<!--
-Also read up on [the case statement](http://www.skorks.com/2009/08/how-a-ruby-case-statement-works-and-what-you-can-do-with-it/) and [the loop method](http://ruby-doc.org/core-1.9.3/Kernel.html#method-i-loop).  You don't need to use these, but they might be useful.
--->
 
 ### Changing the Requirements
 
@@ -76,15 +49,15 @@ Consider some further changes to the rules above.  Let's say we want to model so
 
 1. How would you model non-verbal actions, like giving your Grandma a hug?
 2. What if Grandma's behavior changed depending on her mood?  Maybe she's happy in the morning but grumpy at night.
-3. What if Grandma wants to pinch your cheeks every time you visit? 
+3. What if Grandma wants to pinch your cheeks every time you visit?
 4. What other scenarios can you think of?
 
-Have some fun!  Think of the craziest scenario you can and write a version of Deaf Grandma called `deaf_grandma_crazy` which models that scenario.  
- 
+Have some fun!  Think of the craziest scenario you can and write a version of Deaf Grandma called `deaf_grandma_crazy` which models that scenario.
+
 
 ##Releases
-###Release 0 
+###Release 0
 
-##Optimize Your Learning 
+##Optimize Your Learning
 
 ##Resources
