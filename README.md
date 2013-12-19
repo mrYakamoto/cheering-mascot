@@ -52,7 +52,7 @@ Consider some further changes to the rules above.  Let's say we want to model so
 3. What if Grandma wants to pinch your cheeks every time you visit?
 4. What other scenarios can you think of?
 
-Have some fun!  Think of the craziest scenario you can and write a version of Deaf Grandma called `deaf_grandma_crazy` which models that scenario.
+Have some fun!  Think of the weirdest scenario you can and write a version of Deaf Grandma called `deaf_grandma_weird` which models that scenario.
 
 
 ##Releases
