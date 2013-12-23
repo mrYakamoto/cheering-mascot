@@ -39,13 +39,13 @@ Write a method called `deaf_grandma` that models the Grandma-talkin' rules above
 
 After you have a program that allows you to leave the conversation with Grandma in a civil way, we're going to add a new requirement. In addition to saying "I love ya, Grandma, but I've got to go." to end the conversation, you also need to silently move away. Set up a new way to exit the program in your method: when two empty lines are entered in succession by the user.(Both conditions for ending the program should be supported!)
 
-How does this change your program?How do you record the "state" of your interaction with Grandma?
+How does this change your program? How do you record the "state" of your interaction with Grandma?
 
 ### Getting Creative (Optional)
 Consider some further changes to the rules above. Let's say we want to model some new behavior in our system. Think of how these "real world" scenarios might be modeled in "code world."
 
 1. How would you model non-verbal actions, like giving your Grandma a hug?
-2. What if Grandma's behavior changed depending on her mood?Maybe she's happy in the morning but grumpy at night.
+2. What if Grandma's behavior changed depending on her mood? Maybe she's happy in the morning but grumpy at night.
 3. What if Grandma wants to pinch your cheeks every time you visit?
 4. What other scenarios can you think of?
 
