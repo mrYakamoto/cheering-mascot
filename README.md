@@ -1,7 +1,5 @@
 # Deaf Grandma
 
-##Learning Competencies
-
 ##Summary
 
 We're going to model something a little silly: an interaction between you and your imaginary deaf grandma. She exhibits the following inexplicable behavior:
@@ -51,11 +49,4 @@ Consider some further changes to the rules above. Let's say we want to model som
 3. What if Grandma wants to pinch your cheeks every time you visit?
 4. What other scenarios can you think of?
 
-Have some fun!Think of the weirdest scenario you can and write a version of Deaf Grandma called `deaf_grandma_weird` which models that scenario.
-
-##Releases
-###Release 0
-
-##Optimize Your Learning
-
-##Resources
+Have some fun! Think of the weirdest scenario you can and write a version of Deaf Grandma called `deaf_grandma_weird` which models that scenario.
