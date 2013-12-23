@@ -21,9 +21,9 @@ How should these behaviors map to code?
 
 ## Learning Goals
 
-* Understand the relationship between two models and how change in one is reflected by change in the other
-* Remembering state and working with variables
-* Nested loops and conditionals
+- Construct a program which models the "real" world.
+- Modify the program based on changing specifications.
+- Write Ruby to control a user's flow, get input, and display output.
 
 ## As you are coding, ask yourself....
 
